@@ -1,0 +1,4 @@
+src/hibernate.cfg.xml
+WebContent/WEB-INF/lib/*
+build/*
+.settings/*
