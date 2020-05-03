@@ -18,3 +18,8 @@ Une JSP pour la page d’accueil (index.jsp) et sa Servlet. La page d’accueil 
 
 # Screenshots
 ![alt tag](https://github.com/handrianasolo/tp-blog-recettes/blob/master/screenshots/capture_ecran_accueil.PNG)
+![alt tag](https://github.com/handrianasolo/tp-blog-recettes/blob/master/screenshots/capture_ecran_inscription.PNG)
+![alt tag](https://github.com/handrianasolo/tp-blog-recettes/blob/master/screenshots/capture_ecran_connection_membre.PNG)
+![alt tag](https://github.com/handrianasolo/tp-blog-recettes/blob/master/screenshots/capture_ecran_admin_tags.PNG)
+![alt tag](https://github.com/handrianasolo/tp-blog-recettes/blob/master/screenshots/capture_ecran_membre_connecter.PNG)
+
