@@ -15,3 +15,6 @@ L’application Web doit permettre à l’utilisateur de s’enregistrer via un 
 
 # Tâches accomplies
 Une JSP pour la page d’accueil (index.jsp) et sa Servlet. La page d’accueil contiendra un lien vers la page d’inscription. Une JPS pour le formulaire (inscription.jsp) et sa Servlet. Une JPS (confirmation.jsp) et sa Servlet pour l’affichage des informations saisies par l’utilisateur et du message d’erreur. Faire les requêtes HQL.
+
+# Screenshots
+![alt tag](https://github.com/handrianasolo/tp-blog-recettes/blob/master/screenshots/capture_ecran_accueil.PNG)
