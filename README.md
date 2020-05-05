@@ -2,13 +2,13 @@
 Java JEE, Hibernate, MySQL
 
 # Objectifs
-Mise en place d’un projet sous Eclipse
-Réaliser des pages JSP
-Réaliser des Servlets
-Création de Pojos
-Utilisation des EL
-Utiliser la JSTL
-Utiliser le framework Hibernate
+Mise en place d’un projet sous Eclipse,
+Réaliser des pages JSP, 
+Réaliser des Servlets, 
+Création de Pojos, 
+Utilisation des EL, 
+Utiliser la JSTL, 
+Utiliser le framework Hibernate, 
 Utiliser les mappings (One to One, One to Many, Many to Many)
 
 # Enoncé
