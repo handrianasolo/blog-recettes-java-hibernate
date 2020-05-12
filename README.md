@@ -1,5 +1,5 @@
 # TP-blog-de-recettes
-Java JEE, Hibernate, MySQL
+Java JEE, Hibernate, MySQL with ORM
 
 # Objectifs
 Mise en place d’un projet sous Eclipse,
