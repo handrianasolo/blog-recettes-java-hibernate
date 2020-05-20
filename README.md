@@ -2,14 +2,14 @@
 Java JEE, Hibernate, MySQL with ORM
 
 # Objectifs
-Mise en place d’un projet sous Eclipse,
-Réaliser des pages JSP, 
-Réaliser des Servlets, 
-Création de Pojos, 
-Utilisation des EL, 
-Utiliser la JSTL, 
-Utiliser le framework Hibernate, 
-Utiliser les mappings (One to One, One to Many, Many to Many)
+ - Mise en place d’un projet sous Eclipse,
+ - Réaliser des pages JSP, 
+ - Réaliser des Servlets, 
+ - Création de Pojos, 
+ - Utilisation des EL,
+ - Utiliser la JSTL, 
+ - Utiliser le framework Hibernate, 
+ - Utiliser les relations (One to One, One to Many, Many to Many)
 
 # Enoncé
 L’application Web doit permettre à l’utilisateur de s’enregistrer via un formulaire et de visualiser la fiche utilisateur correspondante. Une page d’accueil permettra d’accéder au formulaire d’inscription. Modifier le code pour utiliser hibernate. Ajouter des relations Many To Many grâce a l’ajout de la fonction Tag. Ajouter une partie d’administration pour l’ajout et la gestion des tags et des catégories. L’application Web doit fonctionner sous hibernate et permettre de gérer les tags.
