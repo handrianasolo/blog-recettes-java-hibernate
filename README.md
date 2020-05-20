@@ -1,4 +1,4 @@
-# TP-blog-de-recettes
+# Blog de recettes
 Java JEE, Hibernate, MySQL with ORM
 
 # Objectifs
