@@ -11,7 +11,7 @@ Java JEE, Hibernate, MySQL with ORM
  - Utiliser le framework Hibernate, 
  - Utiliser les relations (One to One, One to Many, Many to Many)
 
-# Enoncé
+# Consignes
 L’application Web doit permettre à l’utilisateur de s’enregistrer via un formulaire et de visualiser la fiche utilisateur correspondante. Une page d’accueil permettra d’accéder au formulaire d’inscription. Modifier le code pour utiliser hibernate. Ajouter des relations Many To Many grâce a l’ajout de la fonction Tag. Ajouter une partie d’administration pour l’ajout et la gestion des tags et des catégories. L’application Web doit fonctionner sous hibernate et permettre de gérer les tags.
 
 # Screenshots
